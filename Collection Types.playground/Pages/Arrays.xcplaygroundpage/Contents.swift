@@ -42,7 +42,7 @@ print("The second value in the array is: \(shoppingList[1])")
  */
 
 // print("The third value in the array is: \(shoppingList[2])")
-
+print("The third value in the array is : \(shoppingList[2])")
 /*:
  If an array instance is a *variable*, it is *mutable*, and we can add items after the initial declaration of the array:
  */

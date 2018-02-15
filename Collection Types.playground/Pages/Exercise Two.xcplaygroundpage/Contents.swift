@@ -10,12 +10,14 @@
  */
 
 import Foundation
-
+var restaurantRatings : [Double] = []
 
 /*:
  2. Now populate the array with twenty random ratings between 1 and 100.
  */
-
+for _ in 1 ...20 {
+    restaurantRatings.append(Double(arc4random -))
+}
 
 /*:
  3. Determine the average rating. Remember, calculate an average by finding the sum of all the values, then dividing by the number of values.
